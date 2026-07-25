@@ -1,1 +1,301 @@
+hour_of_day	is_weekend	is_night_transaction	country	city	merchant_category	payment_method	device_type	customer_age	credit_score	account_age_years	account_balance	transaction_amount	num_prev_transactions	transaction_freq_monthly	distance_from_home_km	time_since_last_txn_hrs	is_international	failed_attempts	pin_changed_recently	is_fraud	fraud_type
+21	0	0	USA	London	Grocery	Bank Transfer	POS Terminal	18	695	7.2	369.36	39.49	157	23	52.7	10.2	0	0	0	0	None
+5	0	1	UK	New York	Healthcare	Cheque	Desktop	30	600	8.6	2681.99	153.71	153	23	0.9	12.47	0	0	0	0	None
+12	0	0	Canada	Delhi	Grocery	Crypto	Mobile	20	711	10.8	44590.64	118.2	161	20	9.2	0.08	0	1	0	0	None
+2	0	1	France	Tokyo	Utilities	Debit Card	Mobile	29	711	7.3	1213.37	49.5	160	25	14.8	17.94	1	0	1	1	Synthetic Identity
+12	0	0	Canada	Melbourne	Clothing	Debit Card	Desktop	49	751	11.8	34615.01	30.74	134	18	38.9	2.16	0	0	0	0	None
+4	0	1	Canada	Guadalajara	Crypto Exchange	Debit Card	Mobile	22	681	3.7	11181.08	35.36	157	19	23	31.46	0	2	0	1	Friendly Fraud
+19	1	0	USA	Mumbai	Education	Debit Card	Mobile	56	733	4.6	11202.02	92.53	178	14	5	7.5	1	0	1	0	None
+14	0	0	UK	Melbourne	Grocery	Crypto	POS Terminal	47	658	0.9	19545.95	23.12	145	19	6	6.4	0	0	0	0	None
+3	0	1	USA	Melbourne	Online Shopping	Debit Card	Mobile	48	656	4.5	1061.08	330.47	164	23	27.8	47.27	0	0	0	0	None
+21	0	0	Mexico	Mumbai	Crypto Exchange	Credit Card	Mobile	70	836	0.7	7888.36	139.81	154	29	1.2	16.54	0	0	0	0	None
+3	0	1	USA	London	Clothing	Credit Card	Mobile	42	698	3.3	6556.74	229.42	166	23	16.9	1.34	0	0	0	0	None
+3	0	1	India	Paris	Online Shopping	Debit Card	Desktop	51	738	1.1	5857.9	12.66	156	27	22.2	11.97	0	0	0	0	None
+13	0	0	USA	Mexico City	Jewelry	Debit Card	POS Terminal	36	687	6.4	28616.67	199.91	164	21	22.8	10.46	0	0	0	0	None
+7	0	0	USA	New York	Electronics	Crypto	ATM	54	595	2.7	1722.73	146.68	144	26	2.9	22.51	0	0	0	0	None
+1	0	1	Germany	Munich	ATM Withdrawal	Debit Card	ATM	44	539	4.1	17352.81	31.79	140	21	67.8	18.51	0	0	0	0	None
+5	0	1	USA	Los Angeles	Crypto Exchange	Credit Card	ATM	19	491	2.6	2125.86	87.41	151	13	11.4	14.21	1	0	0	0	None
+3	0	1	USA	London	Fuel	Bank Transfer	Desktop	48	850	0.3	17628.03	169.83	145	22	32	6.46	0	0	0	0	None
+20	0	0	France	Mumbai	Online Shopping	Credit Card	Mobile	46	750	3.4	62363.12	48.72	148	20	5.2	5.96	0	0	0	0	None
+12	0	0	India	Sydney	Healthcare	Credit Card	Desktop	35	645	1.3	37309.95	16.3	150	24	9.9	12.33	0	0	0	0	None
+8	0	0	USA	Osaka	Clothing	Credit Card	Mobile	30	728	3.3	4328.88	218.76	139	20	46.4	23.58	0	2	0	0	None
+6	1	1	USA	Manchester	Online Shopping	Credit Card	Desktop	18	713	6.5	1268.42	31.09	127	16	2.2	4.88	0	0	0	0	None
+17	0	0	Mexico	New York	ATM Withdrawal	Debit Card	Desktop	33	739	1.9	29532.27	280.27	115	27	9.5	12.8	0	0	0	0	None
+0	0	1	India	SÃ£o Paulo	Utilities	Bank Transfer	Mobile	43	404	2	56214.4	88.61	165	12	3.8	12.44	1	0	0	0	None
+4	1	1	USA	Toronto	Fuel	Bank Transfer	Desktop	28	685	23.9	1585.69	98.78	129	16	0.3	1.07	0	0	0	0	None
+11	0	0	USA	London	Utilities	Credit Card	POS Terminal	47	717	12.3	4613.25	56.16	127	23	1.9	15.13	0	0	1	0	None
+3	0	1	Australia	Vancouver	Clothing	Crypto	Mobile	41	675	3.9	2318.66	111.26	144	22	23.5	9.2	0	0	0	0	None
+5	1	1	UK	New York	Clothing	Bank Transfer	Desktop	48	616	2.7	11064.5	13.6	145	21	2	0.54	0	0	0	0	None
+2	0	1	Japan	SÃ£o Paulo	Crypto Exchange	Bank Transfer	POS Terminal	54	687	7.3	1985.95	26.33	136	26	0.9	1.23	1	5	0	1	Synthetic Identity
+11	0	0	Mexico	Vancouver	Restaurant	Debit Card	POS Terminal	29	730	7	49900.06	143.43	166	19	4.3	1.22	0	0	0	0	None
+18	0	0	Germany	Berlin	ATM Withdrawal	Credit Card	Mobile	30	850	4.6	870.06	58.65	134	26	4.5	21.35	0	1	1	0	None
+3	0	1	Canada	Munich	Clothing	Cheque	Mobile	47	635	0.1	19469.92	76.4	148	14	103.7	15.53	0	0	0	0	None
+17	0	0	UK	Manchester	Online Shopping	Debit Card	Mobile	26	657	0.5	19788.99	65.96	143	24	6.7	15.43	0	0	0	0	None
+1	0	1	Germany	Manchester	Clothing	Debit Card	Tablet	47	735	2.8	72621.56	10.26	158	17	7.8	25.81	0	0	0	0	None
+2	0	1	India	Vancouver	ATM Withdrawal	Debit Card	Tablet	25	664	3.4	19938.54	168.15	152	28	4.2	8.42	1	0	0	0	None
+16	0	0	India	London	Travel	Credit Card	Mobile	32	722	2.1	2377.87	824.35	134	30	34.1	15.96	1	0	0	0	None
+14	1	0	USA	Sydney	Healthcare	Credit Card	Mobile	40	536	3.3	204539.62	309.62	135	22	0.7	22.73	0	3	0	0	None
+4	0	1	USA	Toronto	Healthcare	Debit Card	Mobile	45	669	1.3	2900.79	101.99	155	21	6.9	33.71	0	2	0	0	None
+5	1	1	India	Vancouver	Crypto Exchange	Crypto	Desktop	43	829	3.8	6084.67	56.15	169	12	22.8	28.19	0	2	0	0	None
+7	0	0	Germany	Melbourne	Grocery	Debit Card	ATM	29	688	15.4	5072.17	3.88	154	24	14.7	3.11	0	0	0	0	None
+16	0	0	Brazil	New York	Fuel	Debit Card	Mobile	49	762	7.7	1265.38	20.08	148	19	0.3	5.09	0	1	0	0	None
+3	1	1	Germany	Delhi	ATM Withdrawal	Credit Card	Mobile	44	699	2	675.35	45.65	172	21	10.8	33.16	0	0	0	0	None
+8	0	0	USA	Rio	Entertainment	Credit Card	Tablet	45	648	5.5	19660.32	44.22	174	21	22.3	37.85	0	0	1	0	None
+6	1	1	USA	Delhi	Online Shopping	Credit Card	Mobile	33	571	15.2	14294.4	4.14	143	20	1.9	9.86	0	0	1	0	None
+16	0	0	USA	Manchester	ATM Withdrawal	Mobile Payment	Mobile	55	761	2.8	32900.05	71.78	152	20	14.5	2.71	0	0	0	0	None
+19	1	0	USA	Berlin	Grocery	Bank Transfer	Mobile	60	850	13.3	302.7	12.81	150	17	5.8	9.86	0	0	1	0	None
+0	0	1	India	Munich	Online Shopping	Mobile Payment	POS Terminal	18	796	17.3	14058.04	49.94	138	21	10.9	17.54	0	1	0	0	None
+3	1	1	USA	Toronto	Education	Mobile Payment	Tablet	52	562	2.2	1563.52	71.28	157	20	1.8	20.55	0	0	0	0	None
+7	0	0	Japan	Sydney	Education	Credit Card	Desktop	63	645	10	14298.52	60.98	135	19	6.1	0.93	1	0	0	0	None
+10	0	0	Mexico	London	Grocery	Credit Card	Mobile	48	597	3.7	25659.64	16.79	147	20	18.1	3.6	0	0	0	0	None
+7	0	0	USA	Mexico City	Jewelry	Credit Card	Desktop	25	681	0.4	1481.51	48.76	167	22	62	19.65	0	0	1	0	None
+15	0	0	Brazil	Berlin	Clothing	Debit Card	Tablet	24	785	0.5	2000.24	30.38	170	14	17.1	16.74	0	1	0	0	None
+16	1	0	USA	Melbourne	Crypto Exchange	Debit Card	ATM	27	620	7.8	19465.67	26.62	126	13	9.2	4.43	0	0	0	0	None
+13	1	0	Japan	SÃ£o Paulo	Clothing	Credit Card	Mobile	37	777	2	2385.17	55.28	156	18	14.3	56.84	1	0	0	0	None
+18	1	0	Brazil	Tokyo	Education	Credit Card	Desktop	27	622	15.5	85502.03	28.94	139	19	17.8	11.4	0	0	0	0	None
+2	1	1	USA	Munich	Healthcare	Mobile Payment	Mobile	18	766	4.5	4340.03	74.84	156	16	66.1	3.96	0	0	0	0	None
+11	0	0	Canada	Manchester	Entertainment	Debit Card	Mobile	41	567	3.1	38192.51	58.72	148	17	44.2	1.81	0	0	0	0	None
+6	0	1	USA	Mexico City	Clothing	Credit Card	Mobile	37	500	7.9	8845.94	90.94	134	19	8.6	13.39	0	1	0	0	None
+23	1	1	USA	Toronto	Electronics	Bank Transfer	Desktop	54	850	13.1	92790.57	206.17	191	19	39.7	0.13	1	1	0	0	None
+3	1	1	Brazil	Delhi	Gaming	Mobile Payment	POS Terminal	58	635	2.9	9367.53	50.29	154	21	5	15.1	0	3	0	0	None
+0	0	1	USA	Toronto	Restaurant	Cheque	POS Terminal	46	711	30	3811.63	47.8	155	16	1.9	2.29	0	0	0	0	None
+14	1	0	USA	New York	Gaming	Credit Card	Mobile	28	789	4	14428.29	13.5	162	19	0.1	5.79	0	0	0	0	None
+18	0	0	USA	Guadalajara	Education	Bank Transfer	Mobile	48	650	0.4	59813.8	19.17	154	23	8.8	2.22	1	0	0	0	None
+21	0	0	Canada	Vancouver	Crypto Exchange	Crypto	Mobile	20	718	2.6	102271.39	98.6	164	19	4	31.7	0	1	0	0	None
+4	0	1	Brazil	Los Angeles	Travel	Credit Card	Mobile	37	671	1	8549.02	101.78	148	13	3.5	1.92	0	0	0	1	Identity Theft
+11	1	0	USA	Manchester	Clothing	Debit Card	Desktop	33	692	0.3	53392.82	81.96	148	24	14.2	13.62	0	0	0	0	None
+2	0	1	Germany	Guadalajara	Electronics	Mobile Payment	Desktop	26	611	6.8	5604.2	808.77	132	21	1.3	38.3	0	0	0	0	None
+12	1	0	Brazil	Mexico City	Healthcare	Debit Card	Mobile	45	811	8.6	8384.86	13.49	129	19	18	5.09	0	0	0	0	None
+20	0	0	Germany	Guadalajara	Grocery	Mobile Payment	Mobile	32	820	6.4	13879.57	38.86	160	18	25.5	14.06	0	0	0	0	None
+18	0	0	Mexico	Mumbai	Online Shopping	Debit Card	Mobile	38	756	0.9	143520.92	23.5	166	19	5.5	1.98	0	0	0	0	None
+20	0	0	UK	Guadalajara	Jewelry	Credit Card	Mobile	51	655	1.1	14808.91	169.93	159	21	2.7	1.23	1	1	1	0	None
+9	1	0	Canada	New York	Utilities	Debit Card	Desktop	43	716	4.1	8222.47	13.59	157	15	8.7	88.55	0	0	0	0	None
+10	0	0	USA	Manchester	Electronics	Debit Card	Mobile	62	700	2.6	9598.52	96.7	135	20	12.2	1.31	0	0	0	0	None
+9	1	0	Mexico	New York	Education	Debit Card	Mobile	33	442	9.8	21450.89	124.81	149	9	88.6	1.72	0	2	0	1	Account Takeover
+4	1	1	India	SÃ£o Paulo	Utilities	Debit Card	Desktop	45	624	2.6	19693.34	82.18	156	19	9.9	2.48	0	0	0	0	None
+15	0	0	USA	Delhi	Entertainment	Debit Card	POS Terminal	69	742	5.4	37360.82	9.41	139	13	77	2.45	0	0	0	0	None
+5	1	1	UK	Toronto	Restaurant	Credit Card	Mobile	28	766	1.6	16818.6	11.7	170	21	5.4	6.85	0	0	1	0	None
+14	0	0	Australia	Tokyo	Restaurant	Debit Card	POS Terminal	44	724	4.4	3260.3	42.04	137	27	25.1	32.25	0	0	0	0	None
+23	0	1	UK	Delhi	Grocery	Debit Card	Mobile	22	572	0.3	142800.14	29.04	137	24	11.7	7.74	0	0	1	0	None
+18	0	0	India	Sydney	Jewelry	Credit Card	Mobile	46	644	0.9	34936.62	270.98	136	24	5.8	12.08	0	0	0	0	None
+9	0	0	Japan	Berlin	Crypto Exchange	Debit Card	Mobile	20	840	4.2	871.55	104.47	139	24	13.3	10.47	0	0	0	0	None
+2	0	1	USA	New York	Fuel	Crypto	Desktop	55	591	8.3	24690.51	25.69	152	20	10.5	27.11	0	0	0	0	None
+8	0	0	Australia	Berlin	Entertainment	Credit Card	Mobile	68	685	0.7	2031.82	106.78	141	22	20.4	10.21	0	0	0	0	None
+4	0	1	USA	Sydney	Gaming	Debit Card	Mobile	38	740	5.4	6406.21	118.55	140	18	14.7	10.5	1	0	1	0	None
+4	0	1	Mexico	Melbourne	ATM Withdrawal	Credit Card	Tablet	25	701	0.1	14283.02	26.26	152	28	4.6	13.75	0	0	0	0	None
+19	0	0	France	Mexico City	Crypto Exchange	Credit Card	Desktop	43	777	0.2	10409.37	193.68	135	22	23.6	6.31	0	0	0	0	None
+7	0	0	Germany	Guadalajara	Utilities	Bank Transfer	Mobile	50	760	1.2	2545.62	36.08	152	21	2	15.95	0	0	0	0	None
+17	0	0	Mexico	Paris	Online Shopping	Crypto	Mobile	28	740	1.1	2536.04	45.26	151	27	6.1	9.51	0	0	0	0	None
+21	0	0	Germany	Sydney	Entertainment	Debit Card	Desktop	27	637	5.6	19140.55	49.81	153	20	44.6	26.48	1	4	0	0	None
+9	0	0	Germany	Delhi	Restaurant	Debit Card	Desktop	21	850	8.1	905.32	24.14	151	23	0.1	3.93	0	0	0	0	None
+2	0	1	USA	Melbourne	Travel	Mobile Payment	Mobile	65	805	12.1	9224.02	1004.62	159	23	55.2	0.51	0	0	0	0	None
+0	1	1	India	Delhi	Education	Debit Card	Mobile	64	579	10.2	3293.03	169.98	147	18	3.8	46	0	0	0	0	None
+21	0	0	UK	Sydney	Crypto Exchange	Debit Card	Mobile	32	600	7.9	2145.64	26.02	166	21	8	7.42	1	5	0	0	None
+20	1	0	India	Berlin	Clothing	Debit Card	Mobile	62	768	10.5	49190.7	39.7	121	16	50.9	23.25	1	0	1	0	None
+15	1	0	France	Osaka	Online Shopping	Bank Transfer	Mobile	28	645	2.2	5331.01	85.21	169	21	2.5	41.41	0	1	0	0	None
+9	1	0	UK	Mumbai	Fuel	Debit Card	Tablet	46	628	5.5	7807.88	23.4	153	21	1.5	6.77	0	0	0	0	None
+13	0	0	Germany	Paris	Travel	Bank Transfer	Desktop	69	750	17.7	47615.97	335.35	172	19	5.7	49.96	1	0	0	0	None
+23	0	1	Brazil	Lyon	Travel	Mobile Payment	Mobile	58	671	8.1	52503	200.54	149	23	10.7	21.88	0	0	0	0	None
+8	0	0	USA	Melbourne	Crypto Exchange	Credit Card	Mobile	32	850	1.6	1485.4	21.1	162	22	43.5	16.84	0	0	0	0	None
+21	0	0	Canada	Melbourne	Clothing	Debit Card	Mobile	48	695	6.3	13550.44	194.24	137	22	19.2	7.65	0	0	0	0	None
+14	0	0	UK	Guadalajara	Fuel	Credit Card	Mobile	62	732	0.5	52656.79	159.13	155	19	15.1	11.72	0	0	0	0	None
+15	0	0	Germany	Berlin	Travel	Debit Card	Desktop	54	556	3.9	12326.02	287.38	151	22	9.3	67.77	0	0	0	0	None
+2	1	1	India	Mumbai	Grocery	Credit Card	Mobile	39	742	1.4	14888.52	13.66	140	19	0.4	7	0	0	0	0	None
+19	0	0	USA	Sydney	Utilities	Debit Card	Mobile	48	699	0.4	11866.76	20.35	178	27	21.7	54.14	0	0	0	0	None
+17	1	0	Japan	SÃ£o Paulo	Clothing	Credit Card	Mobile	22	760	3.4	21594.67	17.95	151	22	42.4	1.09	0	0	0	0	None
+1	0	1	India	Rio	Grocery	Debit Card	Mobile	70	660	7.7	3368.43	246.7	136	6	2.8	14.78	1	0	0	0	None
+12	0	0	Brazil	Rio	Gaming	Bank Transfer	Desktop	22	604	1.7	3731.73	44.19	150	31	6.7	4.91	0	0	0	0	None
+15	1	0	Japan	Delhi	Grocery	Debit Card	Mobile	21	758	4.9	667.96	88.88	134	24	43.1	0.15	0	0	0	1	Friendly Fraud
+8	0	0	UK	Paris	Restaurant	Bank Transfer	Tablet	68	710	4.6	2850.7	11.69	143	25	13.3	1.51	0	0	0	0	None
+9	0	0	USA	SÃ£o Paulo	Gaming	Credit Card	Mobile	24	557	0.5	55953.29	5.49	160	18	27.6	0.81	0	0	0	0	None
+13	0	0	Japan	Munich	Restaurant	Debit Card	Desktop	57	531	4.8	3688.09	115.04	134	22	10.8	5.91	0	2	1	0	None
+7	0	0	Canada	Mexico City	Education	Mobile Payment	Desktop	37	665	1.3	23812.92	76.05	154	20	24.9	0.47	0	0	0	0	None
+11	0	0	USA	SÃ£o Paulo	ATM Withdrawal	Debit Card	Mobile	62	519	9.1	1126.51	86.13	148	18	21.2	14.96	0	0	0	0	None
+2	0	1	USA	Mumbai	Jewelry	Debit Card	Desktop	42	674	4.4	17513.39	1098.02	171	21	8.9	2.8	0	0	0	0	None
+23	1	1	Brazil	Mumbai	ATM Withdrawal	Mobile Payment	Mobile	39	604	2.9	1580.8	23.18	147	20	51.2	5.35	0	1	0	0	None
+4	0	1	USA	Delhi	Online Shopping	Debit Card	Mobile	49	645	4.5	4979.03	211.11	169	16	36.5	7.94	0	0	0	0	None
+2	0	1	Germany	Melbourne	Clothing	Mobile Payment	Desktop	32	611	3.2	13947.93	26.51	138	20	34.2	0.37	0	0	0	0	None
+7	1	0	USA	Delhi	Grocery	Crypto	ATM	18	747	3.1	3602.58	133.41	161	20	6.8	10.93	0	0	0	0	None
+21	0	0	Canada	Toronto	Jewelry	Debit Card	POS Terminal	27	662	1.6	12421.22	73.4	164	10	1	2.84	0	0	0	0	None
+15	0	0	Canada	SÃ£o Paulo	Clothing	Crypto	POS Terminal	41	695	8.4	8370.99	6.89	154	23	20	3.06	0	0	0	0	None
+5	0	1	India	SÃ£o Paulo	ATM Withdrawal	Credit Card	POS Terminal	29	765	2.3	1210.95	22.06	155	29	38	23.67	0	0	0	1	Identity Theft
+9	1	0	France	SÃ£o Paulo	Restaurant	Debit Card	POS Terminal	43	566	4.3	8968.29	123.47	164	18	1	10.92	1	0	0	0	None
+20	0	0	UK	Rio	Gaming	Bank Transfer	ATM	54	620	8.3	21364.09	46.59	147	24	3.8	12.06	0	0	0	0	None
+13	0	0	Mexico	London	Education	Mobile Payment	Desktop	62	595	4	3211.16	113.83	168	22	11.9	0.18	0	3	1	0	None
+7	1	0	Germany	Lyon	ATM Withdrawal	Crypto	Mobile	28	670	4.6	1109.8	22.25	151	20	16.4	17.97	1	1	0	0	None
+7	1	0	UK	Los Angeles	Grocery	Credit Card	Mobile	52	661	1.2	1858.08	32.79	146	17	35.5	17.22	0	0	0	0	None
+23	0	1	USA	Delhi	Restaurant	Debit Card	Mobile	43	672	2.2	17649	86.61	164	20	0.3	0.83	0	5	0	0	None
+1	0	1	UK	Tokyo	Gaming	Credit Card	Mobile	55	715	4.3	8115.35	124.9	151	27	33.7	3.28	0	0	1	1	Account Takeover
+15	0	0	Germany	Sydney	Travel	Bank Transfer	Mobile	29	777	2.5	635.85	403.37	151	17	8.2	31.28	0	1	0	0	None
+16	0	0	Canada	Toronto	Healthcare	Debit Card	Desktop	18	726	3.1	35825.89	28.08	147	14	26.1	24.59	0	0	0	0	None
+13	0	0	USA	Guadalajara	Entertainment	Credit Card	Desktop	42	616	0.2	20681.11	133.48	131	19	16.7	9.45	1	0	0	0	None
+15	1	0	USA	Manchester	Gaming	Debit Card	Mobile	25	622	8.6	21918.25	33.92	160	19	27.9	15.2	0	0	0	0	None
+18	1	0	USA	London	Grocery	Debit Card	Desktop	42	764	3.6	897.41	250.55	152	17	1.5	45.32	0	0	0	0	None
+3	0	1	France	Manchester	Online Shopping	Bank Transfer	ATM	26	669	0.5	5451.56	36.02	152	18	33.1	4.06	0	2	0	0	None
+8	0	0	USA	London	Clothing	Credit Card	Mobile	52	669	12.6	25024.34	63.35	132	16	88.8	8.7	0	0	0	0	None
+5	1	1	USA	Toronto	Online Shopping	Mobile Payment	Mobile	46	558	6.8	47365.89	41.65	160	17	55	36.82	0	0	0	0	None
+23	0	1	USA	London	Utilities	Credit Card	Tablet	18	714	8.1	11988.66	232.56	150	12	22.2	1.83	1	0	0	1	Phishing
+9	0	0	UK	Melbourne	Education	Credit Card	Tablet	45	650	10.3	80941.67	1.94	160	16	23.4	7.05	1	0	0	0	None
+20	1	0	UK	Los Angeles	Grocery	Debit Card	Mobile	20	805	0.9	3249.82	92.57	151	25	13.8	11.23	1	0	0	0	None
+23	0	1	UK	Mexico City	Restaurant	Debit Card	Mobile	33	696	0.2	9528.49	17.95	153	19	40.7	4.36	0	0	0	0	None
+10	1	0	USA	Osaka	Restaurant	Bank Transfer	Mobile	26	645	10.1	12056.28	402.29	147	17	22.7	3.16	1	0	0	0	None
+0	1	1	USA	London	Travel	Debit Card	Desktop	29	626	0.4	10624.78	846.69	130	23	0.3	15.88	0	0	0	0	None
+5	0	1	USA	Berlin	Grocery	Cheque	Mobile	27	820	20.4	5640.81	21.5	145	26	15.2	4.91	0	0	0	0	None
+8	0	0	Germany	Los Angeles	Fuel	Credit Card	Tablet	62	719	0.3	3965.92	211.76	151	23	5.7	2.73	0	0	0	0	None
+12	0	0	Germany	Mexico City	Entertainment	Debit Card	Mobile	47	722	1.9	4404.55	317.91	134	13	67.2	4.97	0	5	0	0	None
+14	0	0	France	Mexico City	Gaming	Debit Card	Tablet	43	679	20	22283.25	25.87	149	22	5.1	12.56	0	0	0	0	None
+22	0	1	Japan	Los Angeles	Jewelry	Bank Transfer	Mobile	35	506	0.2	6266.66	40.38	126	23	9	33.63	1	0	0	0	None
+6	0	1	Germany	Sydney	Utilities	Crypto	Mobile	54	628	0.8	15096.29	121.32	154	18	3.2	19.47	0	0	0	0	None
+7	0	0	USA	Lyon	Gaming	Debit Card	ATM	28	581	0.8	6830.09	32.5	151	14	8.8	1.9	0	0	0	0	None
+19	0	0	USA	Tokyo	Utilities	Credit Card	POS Terminal	40	606	8.1	4954.77	86.27	139	26	4.8	1.15	1	0	1	0	None
+19	0	0	Brazil	Sydney	Grocery	Bank Transfer	Tablet	19	663	1.7	16004.68	25.52	146	24	0.7	21.49	0	1	0	0	None
+20	0	0	Japan	Berlin	Online Shopping	Credit Card	Desktop	34	802	4.8	13676.12	31.59	139	27	11.6	21.86	0	1	0	0	None
+0	1	1	USA	Delhi	Fuel	Debit Card	Tablet	44	632	2.7	5552.23	83.03	154	15	15.3	18.4	0	0	0	0	None
+23	0	1	USA	Los Angeles	ATM Withdrawal	Bank Transfer	Mobile	32	629	4.2	8916.7	488.09	150	19	16.2	15.9	0	0	0	0	None
+23	0	1	Germany	Los Angeles	Travel	Bank Transfer	Mobile	46	543	4.7	1961.95	387.3	134	19	11.7	33.71	0	1	0	0	None
+6	0	1	Canada	Melbourne	Online Shopping	Mobile Payment	ATM	43	630	2.7	6756.21	16.42	153	18	39.5	16.56	0	1	0	0	None
+12	0	0	UK	Delhi	Travel	Debit Card	POS Terminal	44	727	1.5	49994.37	179.85	139	26	27.7	0.23	1	2	0	0	None
+0	0	1	Brazil	Munich	Education	Debit Card	Mobile	34	712	5.9	16654.59	218.9	159	17	40.3	3.95	1	0	0	0	None
+17	1	0	Mexico	Osaka	Utilities	Cheque	Mobile	18	767	4.7	4197.97	81.26	148	20	3	11.55	0	0	0	0	None
+3	0	1	USA	Mexico City	Travel	Debit Card	Mobile	33	669	1.5	66323.14	272.45	168	25	79.4	3.45	0	2	0	0	None
+4	0	1	Brazil	Sydney	Jewelry	Debit Card	Tablet	21	686	1.2	1057.75	387.23	135	16	0.1	11.24	0	2	1	0	None
+15	0	0	India	SÃ£o Paulo	Electronics	Debit Card	POS Terminal	27	642	0.2	1485.3	916.35	157	16	8.6	10.99	0	0	0	0	None
+13	0	0	Australia	Munich	Education	Debit Card	Mobile	39	619	1.4	4771.56	30.9	127	16	17.3	0.33	0	0	0	0	None
+6	0	1	Mexico	Munich	Travel	Credit Card	Desktop	42	566	9.3	4454.23	138.24	142	18	19.9	3.14	0	0	0	0	None
+0	1	1	UK	SÃ£o Paulo	ATM Withdrawal	Credit Card	Desktop	38	698	1.2	29684.06	33.6	149	28	21.1	22.96	0	2	0	0	None
+0	0	1	France	Delhi	Travel	Bank Transfer	Desktop	27	601	1.3	2177.28	998.49	171	17	34.1	19.73	0	0	0	0	None
+12	1	0	USA	Sydney	Utilities	Mobile Payment	POS Terminal	25	663	2.7	2032.84	332.68	143	18	17.7	6.32	1	1	0	1	Synthetic Identity
+3	0	1	India	Munich	Jewelry	Debit Card	Mobile	38	600	5.5	13799.76	670.12	166	15	32.2	3.82	0	1	0	0	None
+8	0	0	USA	Guadalajara	Gaming	Mobile Payment	Desktop	43	641	2.4	3893.81	44.4	166	18	36.3	11.34	0	1	0	0	None
+0	1	1	Canada	Rio	Clothing	Credit Card	POS Terminal	34	552	1.3	19144.11	23.24	159	20	2.7	2.6	0	0	0	0	None
+1	0	1	India	Osaka	Fuel	Mobile Payment	ATM	59	662	0.1	3074.82	100.58	147	30	7.8	2.53	0	0	0	0	None
+11	0	0	Brazil	Toronto	Restaurant	Mobile Payment	Desktop	34	735	4	4590.68	226.98	169	15	15.4	25.41	0	0	0	0	None
+2	0	1	UK	SÃ£o Paulo	Electronics	Credit Card	Mobile	33	706	5.3	13000.45	192.17	113	17	2.4	3.11	0	0	0	0	None
+3	0	1	USA	Mumbai	Gaming	Debit Card	POS Terminal	39	613	2.7	253.73	35.94	153	23	5.7	3.14	1	0	0	0	None
+12	1	0	Germany	Toronto	Electronics	Credit Card	Desktop	31	705	4.8	12522.99	541.26	161	12	7.8	22.43	0	1	0	0	None
+20	0	0	USA	Mexico City	ATM Withdrawal	Credit Card	ATM	30	645	20.9	532.86	6.67	173	20	6.6	6.61	0	0	0	1	Synthetic Identity
+4	0	1	France	Toronto	Travel	Bank Transfer	Mobile	42	787	17.9	9228.99	514.68	164	19	1	5.68	0	1	0	0	None
+19	0	0	Japan	New York	Jewelry	Debit Card	Desktop	38	619	2.4	4408.09	110.19	132	29	9.8	1.06	0	1	0	0	None
+12	0	0	USA	Tokyo	Utilities	Debit Card	Mobile	54	637	0.7	28094.02	121.61	148	24	29.1	6.58	0	0	0	0	None
+21	1	0	France	Toronto	Electronics	Bank Transfer	Mobile	18	742	6.5	3733.12	89.57	153	16	23.6	14.68	0	0	0	0	None
+19	0	0	Brazil	Mumbai	Clothing	Crypto	Desktop	61	616	7	12124.03	185.33	138	21	7.8	7.09	0	0	0	0	None
+7	1	0	Canada	Sydney	Travel	Debit Card	Mobile	67	569	5.8	3965.21	206.27	147	20	44	5.52	0	0	0	0	None
+16	0	0	France	Lyon	Online Shopping	Credit Card	Desktop	64	607	0.7	24244.11	39.25	142	16	10.5	9.44	0	0	0	0	None
+23	0	1	USA	Rio	Utilities	Mobile Payment	Mobile	37	588	6.4	2045.34	32.59	144	16	21.5	0.56	0	0	1	0	None
+8	0	0	France	Melbourne	Utilities	Bank Transfer	POS Terminal	30	762	6.3	2731.73	6.08	163	11	60.5	22.44	0	0	0	0	None
+11	0	0	India	Delhi	Clothing	Debit Card	Mobile	66	564	2.2	6959.02	43.46	155	18	5.3	28.53	0	0	0	0	None
+7	1	0	India	SÃ£o Paulo	Online Shopping	Credit Card	POS Terminal	35	582	0.5	54685.47	13.28	130	24	1.4	0.3	0	0	0	0	None
+14	0	0	India	Tokyo	Jewelry	Debit Card	Mobile	56	762	4.3	6268.5	514.83	133	21	22	1.72	0	0	0	0	None
+19	0	0	USA	Osaka	ATM Withdrawal	Bank Transfer	POS Terminal	34	602	20.4	471.63	40.26	149	24	21.1	1.72	0	0	0	0	None
+22	1	1	Canada	Melbourne	Electronics	Mobile Payment	POS Terminal	33	723	11.6	4380.67	143.44	136	20	3.7	3.89	0	2	0	0	None
+17	1	0	Australia	Vancouver	Travel	Credit Card	ATM	51	653	5.1	15567.82	247.45	159	11	13.9	8.58	0	0	0	0	None
+15	0	0	Mexico	Guadalajara	ATM Withdrawal	Crypto	Mobile	52	698	0.3	2722.65	113.43	145	17	8.4	3.62	0	1	0	0	None
+14	1	0	USA	Sydney	Restaurant	Debit Card	Mobile	37	660	12.5	9714.73	22.61	153	21	28.7	16.63	0	0	0	0	None
+21	0	0	USA	Munich	Entertainment	Debit Card	Mobile	66	671	0.7	22864.71	278.67	127	23	1.2	9.18	0	0	0	0	None
+10	0	0	India	Manchester	Fuel	Mobile Payment	Mobile	48	792	4.5	5208.58	199.71	134	27	3.4	0.35	0	0	0	0	None
+20	1	0	France	Lyon	Healthcare	Cheque	ATM	29	791	3.8	14038.77	52.72	153	21	17.2	16.88	0	0	0	0	None
+13	0	0	India	Los Angeles	Fuel	Credit Card	Tablet	44	669	0.6	42477.65	60.74	152	22	22.5	63.13	0	0	0	0	None
+20	0	0	Germany	Melbourne	Travel	Debit Card	Desktop	47	554	2	1603.89	2926.56	127	24	52.1	29.35	0	0	0	0	None
+3	0	1	UK	SÃ£o Paulo	Online Shopping	Mobile Payment	POS Terminal	32	703	3	4277.25	8.44	146	12	43.6	30.86	0	0	0	0	None
+23	0	1	USA	Toronto	Utilities	Debit Card	Mobile	49	737	15.4	3059.27	33.41	125	19	34.5	80.55	0	0	0	1	Friendly Fraud
+18	1	0	USA	Sydney	Jewelry	Credit Card	Mobile	55	565	5	1543.91	734.67	131	25	3.1	7.77	0	0	0	0	None
+20	0	0	UK	Melbourne	Clothing	Credit Card	Mobile	52	498	7.3	6199.45	227.78	152	20	4.7	0.71	0	2	0	0	None
+3	0	1	Japan	Sydney	Grocery	Credit Card	Tablet	32	751	4.3	3798.47	29.81	156	17	1.4	21.43	0	0	0	0	None
+20	0	0	France	Sydney	Entertainment	Bank Transfer	Mobile	50	740	0.2	395618.4	233.36	134	32	30	11.63	0	1	0	0	None
+17	1	0	USA	Rio	Education	Crypto	Mobile	37	703	1.5	11025.25	62.19	156	17	11.8	0.24	0	0	0	0	None
+8	1	0	Brazil	Melbourne	Online Shopping	Bank Transfer	Mobile	62	628	7.3	4718.83	23.83	153	18	118.2	6.87	0	0	0	0	None
+14	0	0	USA	Vancouver	Education	Bank Transfer	Mobile	25	789	9.4	13103.85	33.48	152	17	51.8	6.22	0	0	0	0	None
+22	0	1	Brazil	Paris	Travel	Crypto	Desktop	42	644	0.1	1963.71	243.77	139	19	4.7	3.69	0	0	0	0	None
+20	0	0	USA	Rio	Utilities	Credit Card	ATM	48	605	1	26518.47	10.02	133	21	10.8	16.48	0	0	0	0	None
+19	0	0	Mexico	Guadalajara	Clothing	Debit Card	Mobile	40	607	11.5	57364.45	41.96	160	20	1.4	3.11	0	0	0	0	None
+20	0	0	USA	Rio	Gaming	Debit Card	POS Terminal	60	672	2.1	2764.73	73.6	151	18	83	3.25	0	0	1	0	None
+10	1	0	UK	Tokyo	Online Shopping	Debit Card	Desktop	39	749	0.1	22225.4	41.28	165	23	7.6	22.33	0	0	0	0	None
+1	0	1	Australia	SÃ£o Paulo	Electronics	Credit Card	ATM	35	736	9.7	3474.09	304.72	169	14	1.4	21.87	0	0	0	0	None
+12	0	0	Japan	Paris	Crypto Exchange	Debit Card	Tablet	60	609	21.7	8070.53	176.24	161	20	5.7	6.26	0	0	0	0	None
+3	0	1	USA	Toronto	Restaurant	Debit Card	Desktop	34	738	1.1	10788.82	31.5	139	18	33.3	61.95	0	0	1	0	None
+7	0	0	USA	Vancouver	Travel	Bank Transfer	Desktop	22	602	6.4	4412.66	441.09	138	22	3.4	2.83	0	1	0	0	None
+0	1	1	USA	Toronto	Gaming	Mobile Payment	Mobile	43	776	9.2	385.05	52.04	163	20	4.2	1.63	0	0	0	0	None
+21	0	0	India	Paris	Online Shopping	Debit Card	POS Terminal	58	634	8.3	12376.51	22.01	155	23	9.6	3.3	0	0	0	0	None
+14	0	0	Canada	Sydney	Education	Mobile Payment	Mobile	35	709	0.8	656.54	251.05	154	15	2.2	5.72	0	0	0	0	None
+22	0	1	UK	New York	Jewelry	Debit Card	Tablet	61	752	5.3	3993.5	312.9	157	19	17.8	7.71	0	0	0	0	None
+13	1	0	Brazil	SÃ£o Paulo	Gaming	Bank Transfer	Mobile	47	814	3.1	83852.92	49.05	130	23	42.4	44.46	0	0	0	0	None
+9	0	0	Mexico	SÃ£o Paulo	Online Shopping	Credit Card	Mobile	37	716	4.7	4607.42	116.1	141	20	20.3	5.41	0	0	0	0	None
+20	0	0	USA	Los Angeles	Online Shopping	Mobile Payment	Tablet	67	596	2.9	18374.92	24.53	148	24	2.2	7.83	0	0	0	0	None
+11	1	0	Brazil	Rio	Fuel	Credit Card	POS Terminal	32	679	7.8	25113.84	32.92	141	19	1.7	3.81	0	0	0	0	None
+2	0	1	Canada	Mumbai	Gaming	Debit Card	POS Terminal	61	746	10.6	6224.29	30.07	142	27	39.3	13.61	0	0	0	0	None
+21	1	0	India	Guadalajara	Utilities	Debit Card	Mobile	44	729	1.2	532.84	76.6	135	19	13.8	19.21	0	0	0	0	None
+22	0	1	USA	New York	Clothing	Debit Card	Mobile	41	739	9.2	44044.56	59.14	149	23	9.4	3.63	0	0	0	0	None
+7	0	0	Brazil	London	Jewelry	Credit Card	Desktop	31	703	6.3	9271.37	8871.52	146	21	5.1	18.08	0	5	0	0	None
+6	0	1	Japan	SÃ£o Paulo	Online Shopping	Debit Card	ATM	41	667	4.3	5391.23	133.65	149	17	15.1	0.23	0	3	0	0	None
+1	0	1	USA	Osaka	Fuel	Credit Card	Desktop	53	744	3.5	3424.87	7.36	157	17	13.5	40.59	0	0	0	0	None
+23	0	1	UK	Rio	ATM Withdrawal	Mobile Payment	ATM	46	690	0.4	44570.38	151.7	165	14	5.9	13.07	0	0	0	0	None
+4	0	1	Canada	Guadalajara	ATM Withdrawal	Debit Card	Mobile	40	679	3.5	7000.56	12.14	157	28	13.7	4.05	0	0	0	0	None
+18	0	0	India	Delhi	Utilities	Credit Card	Mobile	49	593	7.5	174160.6	37.29	156	16	28.5	5.96	0	0	0	0	None
+11	0	0	France	Paris	Fuel	Mobile Payment	Desktop	47	577	2.5	8267.67	336.72	139	20	6	12.93	0	0	1	0	None
+11	0	0	USA	Lyon	Healthcare	Debit Card	Mobile	53	763	4	36423.75	62.57	153	24	32.8	1.18	0	0	0	0	None
+2	0	1	USA	Guadalajara	Fuel	Debit Card	Mobile	50	706	5.2	6731.73	30.28	137	28	26.7	12.67	0	0	0	0	None
+3	0	1	USA	Sydney	Education	Debit Card	Mobile	44	747	2.7	3262	121.35	151	21	20.3	3.09	0	1	1	0	None
+12	0	0	USA	Delhi	Grocery	Credit Card	ATM	40	634	4	5306.63	81.13	166	20	17.9	4.43	0	0	0	0	None
+17	0	0	Germany	Tokyo	Gaming	Credit Card	Desktop	48	736	0.1	7476.88	18	134	24	49	14.02	0	2	0	0	None
+4	1	1	USA	Munich	Gaming	Mobile Payment	Mobile	57	733	3	19091.23	115.25	166	14	4.5	5.4	0	2	0	0	None
+3	1	1	India	Munich	ATM Withdrawal	Credit Card	Desktop	32	790	5.7	17493.78	7.57	159	20	4	11.37	0	0	0	0	None
+17	1	0	India	Guadalajara	Gaming	Bank Transfer	Desktop	30	634	3.5	2053.54	50.73	144	19	2.3	33.4	0	0	0	0	None
+23	1	1	USA	Guadalajara	Restaurant	Debit Card	Mobile	34	850	5.1	8113.23	81.71	152	18	15	4.24	0	0	0	0	None
+14	0	0	USA	Delhi	Education	Credit Card	Tablet	27	698	1.1	8526.68	23.47	143	21	5.2	5.6	0	0	0	0	None
+4	0	1	USA	Vancouver	Education	Credit Card	POS Terminal	41	724	10.7	14655.3	90.4	169	17	7.4	4.98	0	0	0	1	Card Cloning
+13	0	0	USA	Lyon	Clothing	Mobile Payment	Desktop	54	497	4.6	5940.41	120.32	139	19	8.2	21.6	0	0	0	0	None
+13	1	0	India	Manchester	ATM Withdrawal	Credit Card	Desktop	18	822	8.8	15299.17	39.92	143	25	29.5	22.57	0	0	0	0	None
+11	0	0	USA	Vancouver	Fuel	Credit Card	Mobile	28	691	0.9	1494.86	89.39	141	22	29.9	0.21	0	0	0	0	None
+11	0	0	India	Sydney	Utilities	Mobile Payment	Desktop	43	658	8.8	5633.97	32.73	138	19	10.7	14.42	0	0	0	0	None
+18	1	0	Australia	Sydney	Jewelry	Debit Card	ATM	53	607	2	1159.58	351.3	148	26	28.9	7.01	0	0	0	0	None
+16	0	0	Germany	Mumbai	Jewelry	Credit Card	Desktop	44	499	7.8	704.5	589.08	168	22	14.4	14.21	0	2	0	0	None
+13	0	0	Mexico	Sydney	Healthcare	Credit Card	ATM	41	596	4	8436.94	42.19	139	16	1.6	37.49	0	0	0	0	None
+0	0	1	Germany	Mumbai	Clothing	Credit Card	Mobile	26	814	5.9	6702.43	158.74	145	25	6.2	4.87	0	0	0	0	None
+13	0	0	USA	Guadalajara	Online Shopping	Bank Transfer	Mobile	36	669	1	8567.39	195.77	153	13	0.3	39.62	0	0	0	0	None
+13	0	0	USA	SÃ£o Paulo	Clothing	Bank Transfer	ATM	41	780	0.7	6820.29	18.71	159	16	6.9	14.87	0	0	0	0	None
+15	0	0	France	Paris	Fuel	Mobile Payment	Tablet	32	667	3.5	18444.48	42.11	140	22	31.1	21.77	0	0	0	0	None
+9	0	0	UK	Tokyo	Education	Debit Card	Desktop	23	811	11.5	91785.9	152.5	168	23	11.7	1.01	0	0	0	0	None
+20	1	0	Germany	Delhi	Education	Cheque	Tablet	29	659	1.2	18203.64	51.69	133	23	10.6	4.79	0	0	0	0	None
+3	0	1	France	London	ATM Withdrawal	Debit Card	Desktop	53	650	5.6	4233.01	126.22	133	24	63.3	1.11	0	0	0	0	None
+7	0	0	USA	Rio	Grocery	Credit Card	Mobile	51	732	2	22856.7	12.75	147	26	35.6	3.64	0	0	0	0	None
+4	0	1	UK	Mexico City	Travel	Mobile Payment	Tablet	35	654	1.2	11130.25	364.53	148	18	4.2	23.24	0	0	0	0	None
+1	0	1	Australia	Vancouver	Fuel	Credit Card	Desktop	56	509	9.4	25783.39	112.31	170	21	3.1	4.53	0	0	0	0	None
+14	0	0	Brazil	SÃ£o Paulo	Fuel	Mobile Payment	Mobile	41	665	0.1	16503.88	93.79	136	19	19.9	5.97	0	0	0	1	Synthetic Identity
+4	1	1	France	Paris	Online Shopping	Credit Card	Tablet	49	583	13.2	994.59	80.07	160	15	76.7	24.69	0	3	0	0	None
+1	0	1	USA	Sydney	Entertainment	Debit Card	Tablet	33	601	3.2	66407.18	29.25	154	14	5.8	3.75	1	2	0	0	None
+9	0	0	USA	Rio	Jewelry	Debit Card	Mobile	51	823	2	30124.98	431.23	155	20	17.2	5.96	1	3	0	0	None
+20	0	0	Germany	Toronto	Utilities	Credit Card	Mobile	49	776	7.2	16308.37	19.37	143	19	11.7	4.21	1	3	0	0	None
+10	1	0	India	New York	Online Shopping	Debit Card	POS Terminal	34	737	1.1	58918.14	60.41	159	15	2.2	46.44	0	0	0	0	None
+7	0	0	Japan	Melbourne	Electronics	Credit Card	ATM	47	544	1.1	212582.59	41.48	136	21	23.4	0.26	0	1	0	0	None
+8	0	0	India	Sydney	Healthcare	Credit Card	Mobile	53	689	2.1	46747.96	798.13	159	24	32.4	11	0	0	0	0	None
+23	1	1	India	Manchester	Travel	Debit Card	Tablet	49	644	5.8	3105.1	46.33	148	14	11.4	27.65	0	3	0	0	None
+2	0	1	France	Berlin	Utilities	Debit Card	POS Terminal	74	689	9.4	17280.12	19.55	132	20	8.3	5.35	0	0	0	0	None
+4	1	1	USA	SÃ£o Paulo	Restaurant	Debit Card	Mobile	22	646	2.5	48087.78	97.26	123	21	17.2	4.88	0	0	0	0	None
+22	1	1	UK	Osaka	Online Shopping	Credit Card	POS Terminal	20	543	10.5	20116.68	21.65	136	16	49.1	3.68	0	0	0	0	None
+2	1	1	France	Manchester	Healthcare	Credit Card	Mobile	21	698	6.9	7346.37	59.07	137	19	5	2.52	1	0	0	0	None
+14	1	0	USA	Berlin	Gaming	Bank Transfer	POS Terminal	63	706	2.1	6459.63	77.77	151	22	19.6	2.09	0	0	0	1	Account Takeover
+17	0	0	Germany	Berlin	Utilities	Credit Card	ATM	62	710	5.4	20835.96	10.61	147	19	8.2	1.69	0	0	0	0	None
+14	0	0	Brazil	Melbourne	Restaurant	Bank Transfer	Mobile	33	534	10.2	11103.81	4.89	138	17	39.1	23.12	0	2	0	0	None
+13	0	0	Mexico	Los Angeles	Entertainment	Crypto	Mobile	38	806	2.6	34833.82	80.47	160	12	54.9	5.48	0	0	0	0	None
+2	1	1	UK	Rio	Clothing	Mobile Payment	Mobile	53	432	5.5	6568.97	4.18	157	13	10.1	20.83	0	0	0	0	None
+0	1	1	USA	SÃ£o Paulo	Healthcare	Bank Transfer	Mobile	46	637	11.9	7732.42	23.96	136	16	87.2	12.31	0	0	0	0	None
+5	0	1	Canada	London	Electronics	Debit Card	Desktop	30	634	10.5	17587.87	778.03	148	19	9	7.01	0	0	0	0	None
+14	1	0	USA	Rio	Grocery	Credit Card	Desktop	34	761	2	5364.86	18.14	167	14	41.1	9.35	0	0	1	0	None
+6	1	1	France	London	Utilities	Debit Card	Mobile	46	731	12.7	16963.93	28.82	145	16	22.4	1.35	0	0	0	0	None
+2	1	1	India	Mumbai	Gaming	Debit Card	Mobile	18	629	6	5006.91	14.63	162	11	41.2	5.9	0	0	1	0	None
+21	0	0	Mexico	Rio	Clothing	Credit Card	Desktop	58	669	5.8	1217.94	85.62	140	17	24.5	6.8	0	0	0	0	None
+7	0	0	USA	Paris	Online Shopping	Crypto	ATM	19	573	10.5	3194.78	17.04	164	21	4.2	1.12	0	0	0	0	None
+4	0	1	Australia	Los Angeles	Travel	Credit Card	Desktop	39	850	2	13296.05	948.9	139	23	3.5	1.14	0	0	0	0	None
+5	0	1	USA	Vancouver	Travel	Credit Card	Mobile	55	745	4.9	4245.93	273.92	128	19	1.5	7.17	0	0	0	0	None
+13	1	0	Germany	Munich	Travel	Credit Card	Tablet	30	562	3.8	29704.07	1850.91	135	19	6.7	10.49	0	1	0	0	None
+17	1	0	India	Delhi	Travel	Crypto	Mobile	65	563	5.4	4029.28	253.38	161	15	15.2	6.06	0	0	0	0	None
+6	0	1	USA	Tokyo	Education	Mobile Payment	Mobile	52	761	8.9	2667.49	54.75	147	18	45.6	8.24	0	0	0	0	None
+0	0	1	France	Manchester	Restaurant	Mobile Payment	Tablet	44	513	1.9	17742.61	69.93	155	19	28.6	6.22	1	0	0	0	None
+11	0	0	Australia	Melbourne	Jewelry	Credit Card	Mobile	53	719	11.8	2125.83	702.88	150	29	32.5	3.97	0	0	0	0	None
+17	0	0	USA	Berlin	Education	Crypto	ATM	18	698	6.2	1765.36	4.71	179	17	24.6	0.9	0	1	0	0	None
+22	0	1	India	London	Healthcare	Credit Card	Desktop	32	731	3.4	15506.4	39.76	151	21	114	3.34	0	0	0	0	None
+6	0	1	UK	Lyon	Jewelry	Debit Card	Mobile	54	685	3.1	1202.91	210.31	151	23	9.5	20.61	0	0	0	0	None
+19	1	0	France	Tokyo	Gaming	Credit Card	Desktop	18	760	12.6	1433.63	105.65	156	15	9	3.8	0	0	0	0	None
+15	0	0	Japan	Toronto	Crypto Exchange	Mobile Payment	Mobile	30	691	1.4	730.7	45.46	149	26	22.7	4.7	0	0	0	0	None
+14	0	0	India	Paris	Gaming	Credit Card	Desktop	18	725	10.9	17311.64	29.81	153	20	3.6	3.68	0	0	1	0	None
 
